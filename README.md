@@ -15,6 +15,4 @@ Run these commands:
 
 or Run by docker compose
 
-test
-
-hello world
+hellom ajaz 
